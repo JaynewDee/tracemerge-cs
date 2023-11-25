@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TraceMerge": {
+      "commandName": "Project",
+      "commandLineArgs": "merge\r\ninput/north.txt\r\ninput/south.txt",
+      "workingDirectory": "C:\\Users\\jdiehl\\source\\repos\\TraceMerge"
+    }
+  }
+}
