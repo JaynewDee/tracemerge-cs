@@ -364,4 +364,5 @@ FodyWeavers.xsd
 
 # Developer / Testing
 merged.txt
+tr-*.txt
 input/

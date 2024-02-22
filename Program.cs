@@ -1,9 +1,9 @@
 ﻿using System.Text;
 
 /*
-    ::: AUTHOR      : <<| Joshua Newell Diehl |>>
-    ::: VERSION     : 0.1.0
-    ::: Last Updated: 11-24-2023
+    ::: AUTHOR        : <<| Joshua Newell Diehl |>>
+    ::: VERSION       : 0.1.0
+    ::: Last Revision : 11-24-2023
 
     Merge and sort input files produced by lhtrace
     
